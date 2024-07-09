@@ -1,0 +1,19 @@
+{
+   "add_time" : "2023-04-01T00:00:00.000+08:00",
+   "author" : "",
+   "is_new" : false,
+   "licenseTierReq" : {
+      "Fx2LE" : true,
+      "Fx2License" : 0,
+      "celestion_classic" : false,
+      "expansion_acoustic" : false,
+      "expansion_bass" : false,
+      "expansion_jhs" : false,
+      "expansion_metal" : false,
+      "expansion_modern_metal" : false,
+      "jimi_hendrix" : false,
+      "modern_vintage" : false
+   },
+   "modified_time" : "2023-04-01T00:00:00.000+08:00",
+   "name" : "Starting with Blackface"
+}
